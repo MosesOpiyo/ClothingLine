@@ -7,8 +7,10 @@ i{
     padding: 10px;
 }
 img {
+    margin: 0;
+    padding: 0;
     width: auto;
-    height: 50px;
+    height: 30px;
 }
 p {
     padding-top: 10px;
@@ -19,6 +21,9 @@ h6{
     color: white;
     padding-top: 15px;
     padding-right: 10px;
-    font-family: monospace;
+}
+a{
+    text-decoration: none;
+    color: black;
 }
 
